@@ -15,7 +15,7 @@ The correlation between a country's economy and it's gender equality indices is 
 
 ![image](https://user-images.githubusercontent.com/38828636/142231498-b50ddd98-5111-4f15-8e33-64397a721319.png)
 
-In the last decade the median gender annual pay ratio in Canada has an overall upwards trend. The correlation between the state of the economy and the pay ratio is apparent with dips coinciding with the recent oil crisis. It is important that we look at the total pay ratios and not just the wage ratios since it is the total income which matters more than the theoretical parity in wages. 
+In the last decade the median gender annual pay ratio in Canada has an overall upwards trend. The correlation between the state of the economy and the pay ratio is apparent with dips coinciding with the recent oil crisis. It is important that we look at the total pay ratios and not just the wage ratios since it is the total income which matters more than the theoretical parity in wage rates. The median income which was lower than the average income for men was CAD 43K while women earned $12.5K less at just CAD 31.5K. The number looks even more stark when one notices that the contribution of women to the labor force is now almost equal to that of men which means that there are a lot more women earning less than men now. 
 ![image](https://user-images.githubusercontent.com/38828636/142231927-226d9746-2467-439c-b6ff-1d2640a83678.png)
 
 
