@@ -7,7 +7,7 @@ Canada was ranked 24th by the UN based on it's performance according to the Glob
 <p align="center">
 <img src="https://user-images.githubusercontent.com/38828636/142147942-096214c0-3ca1-4cd4-9be0-3c4528d0dfe3.png" width="700">
 </p>
-Four metrics were used for estimating the gender gap index: a) Politics, b) access to Education, c) access to healthcare facilities, d) contribution to economy.
+Four metrics are used for estimating the gender gap index: a) Political empowerment, b) Educational attainment, c) Health and survival, d) Economic participation and opportunity.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/38828636/142148202-479957ff-8fe6-4cf6-b29f-7e948524e2c9.png" width="300">
