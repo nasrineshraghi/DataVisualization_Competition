@@ -32,19 +32,22 @@ One might wonder why does this disparity exist in some occupations more than oth
   <img src="https://user-images.githubusercontent.com/38828636/142246172-ef740996-d058-497a-af61-711be5b5292b.png" width="500" />
 </p>
 
-**Health.** The total number of women healthworkers outnumber men by a 3:1 ratio. Even though the wages have become more or less equal over the years, but the total income of women still is not at par with men. One major factor in this is the number of hours women work on averaged as compared with men. Since there is a greater proportion of women who are employed part-time or are not able to work long hours like men can affects their total income. Due to this disparity in the total number of hours worked the average income drops for women since men are able to work long hours.
+**Health sector income disparity** 
+Of the four criteria that are used to calculate the global gender gap index health is a sector which seems to be doing really well alongwith education. But when we look at the gender wage ratio in the health sector the picture is much less than rosy. The GGI for health is 0.96 but the total income ratio is only 0.77. This becomes alarming when we factor in that the total number of women healthworkers outnumber men by a 3:1 ratio !! Even though the wages have become more or less equal over the years, but the total income of women still is not at par with men. One major factor in this is the number of hours women work on averaged as compared with men. Since there is a greater proportion of women who are employed part-time or are not able to work long hours like men can affects their total income. Due to this disparity in the total number of hours worked the average income drops for women since men are able to work long hours. Various factors affect the lower work hours for women including but not limited to lack of daycare facilities, support from family, marital status and the number of children. 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38828636/142248491-3b123e7f-7eb4-44ce-bb5f-3b50a34e60b3.png" width="400" />
 </p>
 
 
-
-
-**Field of Education matters:**
+**Education sector income disparity: Field of Education matters:**
+The earning capacity of an individual is inherently related to their level of education. But, unfortunately not all education pays equally. In the last few years we have not only reached gender parity in the number of female graduates, but in certain fields women now far outnumber men. The traditional imbalance in STEM has reduced at a slow pace while female domination in education has only increased. This disparity in the field of study combined with the lower rate of pay in education as compared to STEM disciplines means that highly educated females end up earning far less than men.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38828636/142249104-67368d02-af12-4b19-9ffa-cf6a85efc9bb.png" width="500" />
 </p>
 
+This disparity in STEM is well known and several measures are already in place. One area where pay transparency and general encouragement of women has results is in the number of faculties at universities which has now reached parity. The lack of role models, society defined gender roles across different ethnic groups, direct or indirect discrimination all affect this. 
+
+Overall even though the gender gap index numbers seem quite flattering, but a reality check is given by the economic disparity that extends to both health and education sectors. But, the good news is that many of the active interventions are now yeilding positive results. Attention now needs to be paid so that we can improve the number of average work hours for women by providing the right support structure and making sure that while we are paying attention to women we do not let young men feel discriminated and arrest their falling rate of education. Thus we believe "equal access" to resources along with ideal work enviroments will eventually lead to "equal pay" and end gender based disparity in income.
 
 
 
