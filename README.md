@@ -42,7 +42,7 @@ Of the four criteria that are used to calculate the global gender gap index heal
 **Education sector income disparity: Field of Education matters:**
 The earning capacity of an individual is inherently related to their level of education. But, unfortunately not all education pays equally. In the last few years we have not only reached gender parity in the number of female graduates, but in certain fields women now far outnumber men. The traditional imbalance in STEM has reduced at a slow pace while female domination in education has only increased. This disparity in the field of study combined with the lower rate of pay in education as compared to STEM disciplines means that highly educated females end up earning far less than men.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/38828636/142249104-67368d02-af12-4b19-9ffa-cf6a85efc9bb.png" width="500" />
+  <img src="https://user-images.githubusercontent.com/38828636/142249104-67368d02-af12-4b19-9ffa-cf6a85efc9bb.png" width="600" />
 </p>
 
 This disparity in STEM is well known and several measures are already in place. One area where pay transparency and general encouragement of women has results is in the number of faculties at universities which has now reached parity. The lack of role models, society defined gender roles across different ethnic groups, direct or indirect discrimination all affect this. 
