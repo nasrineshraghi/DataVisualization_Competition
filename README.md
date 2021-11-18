@@ -27,12 +27,12 @@ If we look closer at the province wide distribution of median gender pay ratios,
 </p>
 
 
-One might wonder why does this disparity exist in some occupation more than others. The bar chart below shows the gender pay ratios across different occupations grouped according to the National occupational classification (NOC). It is quite clear that the industries that require remote work in harsh conditions like transport or exploitation of natural resources do not pay the same to women as men. Historical gender roles that have shaped the minds of individuals over millenia leads to this bias that becomes apparent when we start looking at the interest in studying these subjects in the last section
+One might wonder why does this disparity exist in some occupations more than others. The bar chart below shows the gender pay ratios across different occupations grouped according to the National occupational classification (NOC). It is quite clear that the industries that require remote work in harsh conditions like transport or exploitation of natural resources do not pay the same to women as men. Historical gender roles that have shaped the minds of individuals over millenia leads to this bias that becomes apparent when we start looking at the interest in studying these subjects in the last section
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38828636/142246172-ef740996-d058-497a-af61-711be5b5292b.png" width="500" />
 </p>
 
-**Health.** Work hours. Wages are same but the total work hours aren't. 
+**Health.** The total number of women healthworkers outnumber men by a 3:1 ratio. Even though the wages have become more or less equal over the years, but the total income of women still is not at par with men. One major factor in this is the number of hours women work on averaged as compared with men. Since there is a greater proportion of women who are employed part-time or are not able to work long hours like men can affects their total income. Due to this disparity in the total number of hours worked the average income drops for women since men are able to work long hours.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38828636/142248491-3b123e7f-7eb4-44ce-bb5f-3b50a34e60b3.png" width="400" />
 </p>
