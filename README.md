@@ -49,5 +49,6 @@ This disparity in STEM is well known and several measures are already in place. 
 
 Overall even though the gender gap index numbers seem quite flattering, but a reality check is given by the economic disparity that extends to both health and education sectors. But, the good news is that many of the active interventions are now yeilding positive results. Attention now needs to be paid so that we can improve the number of average work hours for women by providing the right support structure and making sure that while we are paying attention to women we do not let young men feel discriminated and arrest their falling rate of education. Thus we believe "equal access" to resources along with ideal work enviroments will eventually lead to "equal pay" and end gender based disparity in income.
 
+[Field of Study.xlsx](https://github.com/nasrineshraghi/DataVisualization_Competition/files/7577282/Field.of.Study.xlsx)
 
 
