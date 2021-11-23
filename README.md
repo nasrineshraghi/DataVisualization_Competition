@@ -1,4 +1,5 @@
 # GENDER GAP in CANADA: 
+The infographic :
 https://github.com/nasrineshraghi/DataVisualization_Competition/blob/main/Final_poster.pdf
 ## Equal Access doesn't equate to Equal Pay! But Why?
 For the University of New Brunswick "Data Visualization Competition 2021" we have chosen to focus on the United nation's sustainable development goal (SDG) number 5 Gender Equality. Freely available data from "https://www.statcan.gc.ca/" was used for the purpose of this limited study.
